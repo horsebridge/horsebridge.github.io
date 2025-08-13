@@ -30,8 +30,13 @@ Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu
 
 **Cannikin: No Lagger of SLO in Concurrent Multiple LoRA LLM Serving**  
 **Ruidong Zhu**, Ziyue Jiang, Zhi Zhang, Xin Liu, Xuanzhe Liu, Xin Jin  
-*TPDS.*  
+*TPDS 2025.*  
 [**[PDF](https://ieeexplore.ieee.org/document/11082562)**]
+
+**Truncated Proximal Policy Optimization**  
+Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, **Ruidong Zhu**, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu  
+*arXiv.*  
+[**[PDF](https://arxiv.org/abs/2506.15050)**]
 
 **dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving**  
 Bingyang Wu, **Ruidong Zhu**, Zili Zhang, Peng Sun, Xuanzhe Liu, Xin Jin  
