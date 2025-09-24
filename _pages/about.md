@@ -19,14 +19,14 @@ Email: zhurd (at) pku (dot) edu (dot) cn
 Publications
 -----
 
-**MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism**  
+**MegaScale-Infer: Efficient Mixture-of-Experts Model Serving with Disaggregated Expert Parallelism**  
 **Ruidong Zhu**\*, Ziheng Jiang\*, Chao Jin\*, Peng Wu, Cesar A. Stuardo,
 Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,
 Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
 Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
 *SIGCOMM 2025.*  
-[**[PDF](https://arxiv.org/abs/2504.02263)**]
+[**[PDF](https://dl.acm.org/doi/10.1145/3718958.3750506)**]
 
 **Cannikin: No Lagger of SLO in Concurrent Multiple LoRA LLM Serving**  
 **Ruidong Zhu**, Ziyue Jiang, Zhi Zhang, Xin Liu, Xuanzhe Liu, Xin Jin  
@@ -63,5 +63,5 @@ Teaching
 Internship
 -----
 
-- **ByteDance** [2024.3 - now], Research Intern of Seed-Foundation.
-- **Microsoft Research Asia** [2022.2 - 2022.5], Research Intern of Networking system.
+- **ByteDance** [2024.3 - now], Research Intern of Seed-Foundation-Infra.
+- **Microsoft Research Asia** [2022.2 - 2022.5], Research Intern of Networking Research System.
