@@ -19,39 +19,54 @@ Email: zhurd (at) pku (dot) edu (dot) cn
 Publications
 -----
 
+### 🏛️ Conference Papers
+
+**DistRS: Disaggregated Reward Service for RLVR with Batch-Level Constraint**  
+**Ruidong Zhu**, Mingcong Han, Yinmin Zhong, Wencong Xiao, Xuanzhe Liu, Xin Jin  
+<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">NSDI 2026</span>  
+[**[PDF](https://www.usenix.org/conference/nsdi26/presentation/zhu-ruidong)**]
+
 **MegaScale-Infer: Efficient Mixture-of-Experts Model Serving with Disaggregated Expert Parallelism**  
 **Ruidong Zhu**\*, Ziheng Jiang\*, Chao Jin\*, Peng Wu, Cesar A. Stuardo,
 Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,
 Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
 Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
 (\* Equal Contribution)  
-*SIGCOMM 2025.*  
+<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">SIGCOMM 2025</span>  
 [**[PDF](https://dl.acm.org/doi/10.1145/3718958.3750506)**]
-
-**Cannikin: No Lagger of SLO in Concurrent Multiple LoRA LLM Serving**  
-**Ruidong Zhu**, Ziyue Jiang, Zhi Zhang, Xin Liu, Xuanzhe Liu, Xin Jin  
-*TPDS 2025.*  
-[**[PDF](https://ieeexplore.ieee.org/document/11082562)**]
-
-**Truncated Proximal Policy Optimization**  
-Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, **Ruidong Zhu**, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu  
-*arXiv.*  
-[**[PDF](https://arxiv.org/abs/2506.15050)**]
 
 **dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving**  
 Bingyang Wu, **Ruidong Zhu**, Zili Zhang, Peng Sun, Xuanzhe Liu, Xin Jin  
-*OSDI 2024.*  
+<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">OSDI 2024</span>  
 [**[PDF](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang)**]
 
 **Disaggregated RAID Storage in Modern Datacenters**  
 Junyi Shu, **Ruidong Zhu**, Yun Ma, Gang Huang, Hong Mei, Xuanzhe Liu, Xin Jin  
-*ASPLOS 2023.*  
+<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">ASPLOS 2023</span>  
 [**[PDF](/files/papers/asplos23_dRAID.pdf)**]
 
 **Efficient Synthesis of Method Call Sequences for Test Generation and Bounded Verification**  
 Yunfan Zhang, **Ruidong Zhu**, Yingfei Xiong, Tao Xie  
-*ASE 2022.*  
+<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">ASE 2022</span>  
 [**[PDF](/files/papers/ase22_synthesis.pdf)**]
+
+### 📖 Journal Articles
+
+**Epiphron: Resource-Efficient Distributed Key-Value Storage**  
+**Ruidong Zhu**, Zili Zhang, Bingyang Wu, Xin Yao, Renhai Chen, Gong Zhang, Xuanzhe Liu, Xin Jin  
+<span style="display:inline-block;background:#2E7D32;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">TKDE 2026</span>
+
+**Cannikin: No Lagger of SLO in Concurrent Multiple LoRA LLM Serving**  
+**Ruidong Zhu**, Ziyue Jiang, Zhi Zhang, Xin Liu, Xuanzhe Liu, Xin Jin  
+<span style="display:inline-block;background:#2E7D32;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">TPDS 2025</span>  
+[**[PDF](https://ieeexplore.ieee.org/document/11082562)**]
+
+### 📄 Preprints
+
+**Truncated Proximal Policy Optimization**  
+Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, **Ruidong Zhu**, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu  
+<span style="display:inline-block;background:#546E7A;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">arXiv</span>  
+[**[PDF](https://arxiv.org/abs/2506.15050)**]
 
 Teaching
 -----
