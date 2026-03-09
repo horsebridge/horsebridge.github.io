@@ -21,52 +21,94 @@ Publications
 
 ### 🏛️ Conference Papers
 
-**DistRS: Disaggregated Reward Service for RLVR with Batch-Level Constraint**  
-**Ruidong Zhu**, Mingcong Han, Yinmin Zhong, Wencong Xiao, Xuanzhe Liu, Xin Jin  
-<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">NSDI 2026</span>  
-[**[PDF](https://www.usenix.org/conference/nsdi26/presentation/zhu-ruidong)**]
+<div class="pub-card">
+  <p class="pub-title">DistRS: Disaggregated Reward Service for RLVR with Batch-Level Constraint</p>
+  <p><strong>Ruidong Zhu</strong>, Mingcong Han, Yinmin Zhong, Wencong Xiao, Xuanzhe Liu, Xin Jin</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-conf">NSDI 2026</span>
+  </p>
+  <div class="pub-links">
+    <a href="https://www.usenix.org/conference/nsdi26/presentation/zhu-ruidong" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
-**MegaScale-Infer: Efficient Mixture-of-Experts Model Serving with Disaggregated Expert Parallelism**  
-**Ruidong Zhu**\*, Ziheng Jiang\*, Chao Jin\*, Peng Wu, Cesar A. Stuardo,
-Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng,
-Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye,
-Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu  
-(\* Equal Contribution)  
-<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">SIGCOMM 2025</span>  
-[**[PDF](https://dl.acm.org/doi/10.1145/3718958.3750506)**]
+<div class="pub-card">
+  <p class="pub-title">MegaScale-Infer: Efficient Mixture-of-Experts Model Serving with Disaggregated Expert Parallelism</p>
+  <p><strong>Ruidong Zhu</strong>\*, Ziheng Jiang\*, Chao Jin\*, Peng Wu, Cesar A. Stuardo, Dongyang Wang, Xinlei Zhang, Huaping Zhou, Haoran Wei, Yang Cheng, Jianzhe Xiao, Xinyi Zhang, Lingjun Liu, Haibin Lin, Li-Wen Chang, Jianxi Ye, Xiao Yu, Xuanzhe Liu, Xin Jin, Xin Liu<br><em>(* Equal Contribution)</em></p>
+  <p>
+    <span class="pub-venue-badge pub-badge-conf">SIGCOMM 2025</span>
+  </p>
+  <div class="pub-links">
+    <a href="https://dl.acm.org/doi/10.1145/3718958.3750506" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
-**dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving**  
-Bingyang Wu, **Ruidong Zhu**, Zili Zhang, Peng Sun, Xuanzhe Liu, Xin Jin  
-<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">OSDI 2024</span>  
-[**[PDF](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang)**]
+<div class="pub-card">
+  <p class="pub-title">dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving</p>
+  <p>Bingyang Wu, <strong>Ruidong Zhu</strong>, Zili Zhang, Peng Sun, Xuanzhe Liu, Xin Jin</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-conf">OSDI 2024</span>
+  </p>
+  <div class="pub-links">
+    <a href="https://www.usenix.org/conference/osdi24/presentation/wu-bingyang" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
-**Disaggregated RAID Storage in Modern Datacenters**  
-Junyi Shu, **Ruidong Zhu**, Yun Ma, Gang Huang, Hong Mei, Xuanzhe Liu, Xin Jin  
-<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">ASPLOS 2023</span>  
-[**[PDF](/files/papers/asplos23_dRAID.pdf)**]
+<div class="pub-card">
+  <p class="pub-title">Disaggregated RAID Storage in Modern Datacenters</p>
+  <p>Junyi Shu, <strong>Ruidong Zhu</strong>, Yun Ma, Gang Huang, Hong Mei, Xuanzhe Liu, Xin Jin</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-conf">ASPLOS 2023</span>
+  </p>
+  <div class="pub-links">
+    <a href="/files/papers/asplos23_dRAID.pdf" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
-**Efficient Synthesis of Method Call Sequences for Test Generation and Bounded Verification**  
-Yunfan Zhang, **Ruidong Zhu**, Yingfei Xiong, Tao Xie  
-<span style="display:inline-block;background:#1565C0;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">ASE 2022</span>  
-[**[PDF](/files/papers/ase22_synthesis.pdf)**]
+<div class="pub-card">
+  <p class="pub-title">Efficient Synthesis of Method Call Sequences for Test Generation and Bounded Verification</p>
+  <p>Yunfan Zhang, <strong>Ruidong Zhu</strong>, Yingfei Xiong, Tao Xie</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-conf">ASE 2022</span>
+  </p>
+  <div class="pub-links">
+    <a href="/files/papers/ase22_synthesis.pdf" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
 ### 📖 Journal Articles
 
-**Epiphron: Resource-Efficient Distributed Key-Value Storage**  
-**Ruidong Zhu**, Zili Zhang, Bingyang Wu, Xin Yao, Renhai Chen, Gong Zhang, Xuanzhe Liu, Xin Jin  
-<span style="display:inline-block;background:#2E7D32;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">TKDE 2026</span>
+<div class="pub-card">
+  <p class="pub-title">Epiphron: Resource-Efficient Distributed Key-Value Storage</p>
+  <p><strong>Ruidong Zhu</strong>, Zili Zhang, Bingyang Wu, Xin Yao, Renhai Chen, Gong Zhang, Xuanzhe Liu, Xin Jin</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-journal">TKDE 2026</span>
+  </p>
+</div>
 
-**Cannikin: No Lagger of SLO in Concurrent Multiple LoRA LLM Serving**  
-**Ruidong Zhu**, Ziyue Jiang, Zhi Zhang, Xin Liu, Xuanzhe Liu, Xin Jin  
-<span style="display:inline-block;background:#2E7D32;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">TPDS 2025</span>  
-[**[PDF](https://ieeexplore.ieee.org/document/11082562)**]
+<div class="pub-card">
+  <p class="pub-title">Cannikin: No Lagger of SLO in Concurrent Multiple LoRA LLM Serving</p>
+  <p><strong>Ruidong Zhu</strong>, Ziyue Jiang, Zhi Zhang, Xin Liu, Xuanzhe Liu, Xin Jin</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-journal">TPDS 2025</span>
+  </p>
+  <div class="pub-links">
+    <a href="https://ieeexplore.ieee.org/document/11082562" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
 ### 📄 Preprints
 
-**Truncated Proximal Policy Optimization**  
-Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, **Ruidong Zhu**, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu  
-<span style="display:inline-block;background:#546E7A;color:#fff;font-size:0.75em;font-weight:600;padding:1px 7px;border-radius:4px;vertical-align:middle;">arXiv</span>  
-[**[PDF](https://arxiv.org/abs/2506.15050)**]
+<div class="pub-card">
+  <p class="pub-title">Truncated Proximal Policy Optimization</p>
+  <p>Tiantian Fan, Lingjun Liu, Yu Yue, Jiaze Chen, Chengyi Wang, Qiying Yu, Chi Zhang, Zhiqi Lin, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Bole Ma, Mofan Zhang, Gaohong Liu, Ru Zhang, Haotian Zhou, Cong Xie, <strong>Ruidong Zhu</strong>, Zhi Zhang, Xin Liu, Mingxuan Wang, Lin Yan, Yonghui Wu</p>
+  <p>
+    <span class="pub-venue-badge pub-badge-preprint">arXiv</span>
+  </p>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2506.15050" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>
+  </div>
+</div>
 
 Teaching
 -----

@@ -41,3 +41,82 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Custom Publication Card Styles */
+.pub-card {
+  margin-bottom: 20px;
+  padding: 16px 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #eef0f2;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  transition: all 0.3s ease;
+}
+html.dark .pub-card {
+  background-color: #1e1e1e;
+  border-color: #333;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.pub-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+  border-color: #e2e5e8;
+}
+html.dark .pub-card:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+  border-color: #444;
+}
+.pub-card p {
+  margin: 0 0 8px 0 !important;
+  font-size: 0.95em;
+  color: #444;
+}
+html.dark .pub-card p {
+  color: #bbb;
+}
+.pub-card p.pub-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 6px !important;
+}
+html.dark .pub-card p.pub-title {
+  color: #eee;
+}
+.pub-venue-badge {
+  display: inline-block;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+.pub-badge-conf { background: #1565C0; }
+.pub-badge-journal { background: #2E7D32; }
+.pub-badge-preprint { background: #546E7A; }
+
+.pub-links a {
+  display: inline-block;
+  padding: 4px 12px;
+  background-color: #f8f9fa;
+  color: #495057 !important;
+  border-radius: 6px;
+  text-decoration: none !important;
+  font-size: 0.85em;
+  font-weight: bold;
+  border: 1px solid #dee2e6;
+  transition: all 0.2s;
+}
+html.dark .pub-links a {
+  background-color: #2a2a2a;
+  color: #eee !important;
+  border-color: #444;
+}
+.pub-links a:hover {
+  background-color: #e9ecef;
+}
+html.dark .pub-links a:hover {
+  background-color: #3a3a3a;
+}
